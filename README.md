@@ -78,13 +78,7 @@ The dataset used in this project is titled `Customers.csv` and contains the foll
    cd customer-segmentation-clustering
    ```
 
-2. **Install Dependencies**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Launch the Notebook**
+2. **Launch the Notebook**
 
    ```bash
    jupyter notebook Assignment6_Clustering.ipynb
