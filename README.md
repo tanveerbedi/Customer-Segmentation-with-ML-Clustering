@@ -1,5 +1,4 @@
 ## Customer Segmentation via Unsupervised Clustering Techniques
-
 ---
 
 ### 📌 Project Overview
