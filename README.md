@@ -101,12 +101,6 @@ The dataset used in this project is titled `Customers.csv` and contains the foll
 
 ---
 
-### 📈 Visual Output (Sample)
-
-> *(Attach or embed clustering visualization outputs from the notebook here)*
-
----
-
 ### 📁 Repository Structure
 
 ```
